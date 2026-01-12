@@ -1,0 +1,26 @@
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Frontend
+frontend/frontend/node_modules/
+frontend/frontend/dist/
+frontend/frontend/.env
+
+# Backend (Java / Node safe)
+backend/target/
+backend/node_modules/
+backend/.env
+*.log
+
+# Python / ML safety (VERY IMPORTANT)
+__pycache__/
+*.pkl
+*.h5
+*.ipynb
+
+# Never track user folders
+OneDrive/
+Desktop/
+Documents/
