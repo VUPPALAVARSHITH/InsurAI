@@ -24,3 +24,14 @@ __pycache__/
 OneDrive/
 Desktop/
 Documents/
+
+# Maven
+target/
+*.jar
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
